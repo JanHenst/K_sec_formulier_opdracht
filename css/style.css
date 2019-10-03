@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  background-color: #333333;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+input {
+  margin: 3px;
+}
+
+.Voornaam {
+  margin-left: 4.5em;
+  width: 17em;
+}
+.Achternaam {
+  margin-left: 3.3em;
+  width: 17em;
+}
+.Straat {
+  margin-left: 7.2em;
+}
+.Huisnr {
+  width: 3em;
+}
+.Postcode1 {
+  margin-left: 5em;
+  width: 6.2em;
+}
+.Postcode2 {
+  margin-left: 1em;
+  width: 3em;
+}
+.Woonplaats {
+  margin-left: 3.4em;
+}
+.E-mail {
+  margin-left: 7em;
+}
+.submit {
+  display: block;
+  width: 11em;
+}
